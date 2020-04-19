@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  display: block;
+}
+#showvirus1{
+  width:50px;
+  height: 50px;
+  background: url("gold.jpg") no-repeat;
+}
+#showvirus2{
+  width:50px;
+  height: 50px;
+  background: url("wood.jpg") no-repeat;
+}
+#showvirus3{
+  width:50px;
+  height: 50px;
+  background: url("marble.jpg") no-repeat;
+}
